@@ -18,15 +18,12 @@ machine learning classification.
 
 ## How to run
 
-```bash
-git clone https://github.com/Sameer4240360/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Sameer4240360/ML-python-projects.git
+cd ML-python-projects
 pip install -r requirements.txt
 python 01-oop-python-tasks/oop_tasks.py
-```
 
-Each folder has its own README. The scripts in `04-machine-learning-classification` that read CSV
-files need those datasets placed in the same folder (see that folder's README).
+
 
 ## Notes
 
